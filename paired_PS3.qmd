@@ -1,6 +1,6 @@
 ---
 title: "30538 Problem Set 3: git pair"
-author: "Brenda Castañeda"
+author: "Ahona Roy and Brenda Castañeda"
 format: 
   pdf:
     include-in-header: 
@@ -34,4 +34,3 @@ def preview_data(df):
 result = preview_data(data)
 preview_data(data) 
 ```
-
